@@ -1,0 +1,18 @@
+langkah langkah untuk menjalankan aplikasi mutia pet shop:
+1. jalankan perintah "php artisan migrate"
+2. jalankan perintah "php artisan db:seed"
+3. jalankan perintah "php artisan serve"
+4. buka aplikasi mutia pet shop
+
+akun-akun yang telah sudah disediakan:
+1.admin:
+-email:admin@example.com
+-password:password
+
+2.kasir:
+-email:kasir@example.com
+-password:password
+
+3.customer:
+-email:customer@example.com
+-password:password
